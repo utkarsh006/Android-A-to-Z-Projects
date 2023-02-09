@@ -37,4 +37,4 @@ legible to get merged.
    - Project Flow.
    - Working Video attached of your project.
 
-- **GUIDELINE 7 :** Update the Another README file named as **difficultyLevel.md** and list your project under adequate section and give the link to your project.
+- **GUIDELINE 7 :** Update the [difficultyLevel.md](https://github.com/utkarsh006/Android-A-to-Z-Projects/blob/main/difficultyLevel.md) and list your project under adequate section and give the link to your project.
