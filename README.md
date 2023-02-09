@@ -9,3 +9,5 @@
 
 ![Github Repo Size](https://img.shields.io/github/repo-size/utkarsh006/Android-A-to-Z-Projects?style=for-the-badge&color=aqua) 
 - Read about [Project Rules](https://github.com/utkarsh006/Android-A-to-Z-Projects/blob/main/projectRules.md) & [Contributing Guidelines](https://github.com/utkarsh006/Android-A-to-Z-Projects/blob/main/Contributing.md)
+
+- Learn Android by building cool projects ☺
